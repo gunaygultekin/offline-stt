@@ -1,0 +1,18 @@
+.error{
+    color: red !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+.supportedMedias a{
+    pointer-events:none;
+    cursor:default;
+}
+#resultText{
+    text-align: left;
+    overflow: overlay;
+    height: 70px;
+}
+
+.disableMouseClick{
+   pointer-events: none;
+}
